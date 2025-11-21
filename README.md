@@ -51,7 +51,7 @@ div style="border:1px solid #ccc; padding:12px; border-radius:8px;"><table style
 | Pertemuan 3 | Modul Praktikum 2 – Tipe Data pada Python | Memahami tipe data (string, integer, float, boolean) dan cara penggunaannya |
 | Pertemuan 4 | Operator | Mengenal operator aritmatika, logika, dan perbandingan dalam Python |
 | Pertemuan 5 | Kontrol Alur | Materi tentang penggunaan if-else, loop for dan while |
-| Pertemuan 6 | Fungsi | Cara membuat dan menggunakan fungsi di Python |
+| <tr><td>Pertemuan 6 | Fungsi | Cara membuat dan menggunakan fungsi di Python |</td></tr>
 <tr><td>Pertemuan 7</td><td>Praktikum</td><td>Latihan membuat program sederhana menggunakan materi sebelumnya</td></tr>
 </table></div>--- Latihan membuat program sederhana menggunakan materi sebelumnya |
 
