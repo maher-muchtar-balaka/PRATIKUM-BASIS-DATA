@@ -1,11 +1,11 @@
-Pemrograman Python untuk Pemula
+# Pemrograman Python untuk Pemula
 
 Repository ini berisi modul pembelajaran dan praktikum dasar pemrograman Python untuk pemula. Materi disusun secara bertahap mulai dari perkenalan hingga latihan menjalankan kode Python.
 
 
 ---
 
-📘 Pendahuluan
+# 📘 Pendahuluan
 
 Modul ini dirancang untuk membantu pemula memahami:
 
@@ -21,7 +21,7 @@ Cara menjalankan program Python di IDE maupun terminal
 
 ---
 
-🛠 Tools (IDE, Compiler)
+# 🛠 Tools (IDE, Compiler)
 
 Tools yang digunakan dalam pembelajaran ini, antara lain:
 
@@ -39,7 +39,7 @@ Google Colab
 
 ---
 
-📅 Pertemuan
+# 📅 Pertemuan
 
 Berikut jadwal materi setiap pertemuan:
 
@@ -57,7 +57,7 @@ Pertemuan 7	Praktikum	Latihan membuat program sederhana menggunakan materi sebel
 
 ---
 
-📦 Struktur Repository
+# 📦 Struktur Repository
 
 documents/ – File materi PDF/MD
 
@@ -69,14 +69,14 @@ scripts/ – Contoh program Python
 
 ---
 
-🐍 Contoh Program Sederhana
+# 🐍 Contoh Program Sederhana
 
 print("Halo, selamat belajar Python!")
 
 
 ---
 
-🤝 Kontribusi
+# 🤝 Kontribusi
 
 Kontribusi sangat diterima! Silakan fork repository, lakukan perubahan, dan ajukan pull request.
 
@@ -84,7 +84,3 @@ Kontribusi sangat diterima! Silakan fork repository, lakukan perubahan, dan ajuk
 
 Proyek ini berada di bawah lisensi MIT.
 
-
----
-
-Selamat belajar dan semoga bermanfaat! 🚀🐍
