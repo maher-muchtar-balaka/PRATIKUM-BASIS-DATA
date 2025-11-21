@@ -1,86 +1,70 @@
 # Pemrograman Python untuk Pemula
 
-Repository ini berisi modul pembelajaran dan praktikum dasar pemrograman Python untuk pemula. Materi disusun secara bertahap mulai dari perkenalan hingga latihan menjalankan kode Python.
+Selamat datang! Repository ini dibuat untuk membantu pemula memahami dasar-dasar pemrograman Python secara mudah, praktis, dan terstruktur.
+
+# 🎯 Tujuan
+
+Memperkenalkan konsep dasar Python
+
+Memberi contoh kode sederhana
+
+Membantu memahami alur logika pemrograman
+
+Menjadi referensi belajar yang mudah diikuti
 
 
----
+# 📦 Isi Repository
 
-# 📘 Pendahuluan
+01_pengenalan_python.md – Penjelasan tentang apa itu Python dan cara kerjanya
 
-Modul ini dirancang untuk membantu pemula memahami:
+02_variabel_tipe_data.md – Variabel, tipe data (string, integer, float, boolean)
 
-Konsep dasar pemrograman menggunakan Python (versi 3 ke atas)
+03_operator.md – Operator aritmatika, logika, dan perbandingan
 
-Syntax dasar Python
+04_kontrol_alur.md – if-else, loop (for dan while)
 
-Algoritma dan logika pemrograman
+05_fungsi.md – Cara membuat dan menggunakan fungsi
 
-Cara menjalankan program Python di IDE maupun terminal
+contoh_program/ – Kumpulan contoh program sederhana
 
 
+# 🚀 Cara Menggunakan
 
----
-
-# 🛠 Tools (IDE, Compiler)
-
-Tools yang digunakan dalam pembelajaran ini, antara lain:
-
-Python Latest
-
-PyCharm IDE
-
-Jupyter Notebook
-
-Jupyter Lab
-
-Google Colab
+1. Clone repository:
 
 
 
----
+git clone https://github.com/username/python-pemula.git
+cd python-pemula
 
-# 📅 Pertemuan
+2. Buka file markdown sesuai urutan pembelajaran.
 
-Berikut jadwal materi setiap pertemuan:
 
-Pertemuan	Materi Pertemuan	Deskripsi
-
-Pertemuan 1	Pengenalan	Penjelasan mengenai RPS praktikum, algoritma dasar, dan pengantar pemrograman Python
-Pertemuan 2	Modul Praktikum 1 – Menjalankan Syntax Dasar Python	Mengerti syntax dasar Python dan mampu menjalankan program menggunakan IDE atau command prompt
-Pertemuan 3	Modul Praktikum 2 – Tipe Data pada Python	Memahami tipe data (string, integer, float, boolean) dan cara penggunaannya
-Pertemuan 4	Operator	Mengenal operator aritmatika, logika, dan perbandingan dalam Python
-Pertemuan 5	Kontrol Alur	Materi tentang penggunaan if-else, loop for dan while
-Pertemuan 6	Fungsi	Cara membuat dan menggunakan fungsi di Python
-Pertemuan 7	Praktikum	Latihan membuat program sederhana menggunakan materi sebelumnya
+3. Coba jalankan contoh kode pada Python interpreter atau file .py.
 
 
 
----
+# 🐍 Persiapan Lingkungan
 
-# 📦 Struktur Repository
+Pastikan Python sudah terinstal:
 
-documents/ – File materi PDF/MD
+python --version
 
-notebooks/ – Notebook Jupyter untuk praktikum
+Jika belum ada, unduh dari situs resmi Python.
 
-scripts/ – Contoh program Python
-
-
-
----
-
-# 🐍 Contoh Program Sederhana
+# 📘 Contoh Program Sederhana
 
 print("Halo, selamat belajar Python!")
 
+🤝 Kontribusi
 
----
-
-# 🤝 Kontribusi
-
-Kontribusi sangat diterima! Silakan fork repository, lakukan perubahan, dan ajukan pull request.
+Terbuka untuk kontribusi! Silakan fork repo, buat perubahan, dan ajukan pull request.
 
 📄 Lisensi
 
-Proyek ini berada di bawah lisensi MIT.
+Proyek ini menggunakan lisensi MIT. Bebas digunakan dan dimodifikasi.
 
+
+---
+
+Selamat belajar dan semoga bermanfaat! 🧠✨
